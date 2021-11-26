@@ -1,3 +1,1 @@
-- Hi, I’m @brendanpatrickmurphy.
-- I’m mostly here as a hobbyist right now, I haven't done nearly as much programming as I would have liked to since college.  
-- I’m currently working on mostly personal projects in Python!
+
